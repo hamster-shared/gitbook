@@ -11,7 +11,7 @@ const config = {
   title: 'Hamster Docs',
   tagline: 'User Documentation',
   url: 'https://hamsternet.io',
-  baseUrl: '/docs',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   organizationName: 'hamster-shared', // Usually your GitHub org/user name.
