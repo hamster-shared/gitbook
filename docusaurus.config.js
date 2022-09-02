@@ -6,12 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 const codeInjector = require('./src/remark/code-injector')
 
+const baseUrl = '/docs/'
+
 /** @type {import("@docusaurus/types").Config} */
 const config = {
   title: 'Hamster Docs',
   tagline: 'User Documentation',
   url: 'https://hamsternet.io',
-  baseUrl: '/docs/',
+  baseUrl: baseUrl,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   organizationName: 'hamster-shared', // Usually your GitHub org/user name.
@@ -57,7 +59,7 @@ const config = {
       navbar: {
         logo: {
           alt: 'Hamster Logo',
-          src: 'img/logo.png',
+          src: baseUrl+'img/logo.png',
         },
         items: [
           {
@@ -76,7 +78,7 @@ const config = {
               {
                 html: `
                   <a class="social-link" href="#" target="_blank" rel="noopener noreferrer" title="Git">
-                     <img class="logo" src="/img/logo.png" alt="Hamster Logo" />
+                     <img class="logo" src="${baseUrl}img/logo.png" alt="Hamster Logo" />
                   </a>
                 `,
               },
@@ -105,16 +107,16 @@ const config = {
                   <p class="right">
                     <nav class="social-links">
                         <a class="social-link" href="https://github.com/hamster-shared" target="_blank" rel="noopener noreferrer" title="Git">
-                         <img class="icon" src="/img/socials/git.svg" alt="Git Icon" />
+                         <img class="icon" src="${baseUrl}img/socials/git.svg" alt="Git Icon" />
                         </a>
                         <a class="social-link" href="https://twitter.com/Hamsternetio" target="_blank" rel="noopener noreferrer" title="Twitter">
-                        <img class="icon" src="/img/socials/twitter.svg" alt="Twitter Icon" />
+                        <img class="icon" src="${baseUrl}/socials/twitter.svg" alt="Twitter Icon" />
                         </a>
                         <a class="social-link" href="https://discord.gg/MrJWxRwXpb" target="_blank" rel="noopener noreferrer" title="Discord">
-                          <img class="icon" src="/img/socials/discord.svg" alt="Discord Icon" />
+                          <img class="icon" src="${baseUrl}img/socials/discord.svg" alt="Discord Icon" />
                         </a>
                         <a class="social-link" href="https://medium.com/@Hamsternetio" target="_blank" rel="noopener noreferrer" title="Medium">
-                          <img class="icon" src="/img/socials/medium.svg" alt="Medium Icon" />
+                          <img class="icon" src="${baseUrl}img/socials/medium.svg" alt="Medium Icon" />
                         </a>
                     </nav>
                   </p>
