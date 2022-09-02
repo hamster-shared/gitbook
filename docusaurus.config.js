@@ -110,7 +110,7 @@ const config = {
                          <img class="icon" src="${baseUrl}img/socials/git.svg" alt="Git Icon" />
                         </a>
                         <a class="social-link" href="https://twitter.com/Hamsternetio" target="_blank" rel="noopener noreferrer" title="Twitter">
-                        <img class="icon" src="${baseUrl}/socials/twitter.svg" alt="Twitter Icon" />
+                        <img class="icon" src="${baseUrl}img/socials/twitter.svg" alt="Twitter Icon" />
                         </a>
                         <a class="social-link" href="https://discord.gg/MrJWxRwXpb" target="_blank" rel="noopener noreferrer" title="Discord">
                           <img class="icon" src="${baseUrl}img/socials/discord.svg" alt="Discord Icon" />
