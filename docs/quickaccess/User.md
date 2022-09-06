@@ -2,43 +2,57 @@
 sidebar_position: 1
 ---
 
-# User
+# Users
 
-## Download Hamster-client
+## Log in to the official website of hamster and download Hamster-Client
 
-Before you can download the Hamster-client client, you need to go to the official Hamster website (<https://hamsternet.io/>). Click Download under the Banner on the Hamster website to enter the download screen.
+Before you download the hamster client, you need to enter the official website of hamster ( https://hamsternet.io/ ). Click download under banner on the official website of hamster to enter the download interface.
 
-## Installing Hamster-Client
+## After downloading, intall the Hamster-Client
 
-As shown in the picture, go to the one-click deployment interface and select Hamster Network.
+As shown in the figure, take the deployment of the graph node as an example (Hamster can also deploy nodes of any other project), Enter the one click deployment interface and select Hamster network.
 
 ![img](/img/pages/u2971.png)
 
-## Select wallet
+## Select Wallet
+
+Select your wallet
 
 ![img](/img/pages/u2972.png)
 
-## Enter wallet
+## Enter Wallet
+
+Enter your wallet information
 
 ![img](/img/pages/u2974.png)
 
-## Create project
+## Create Project
+
+Create the project you want to build the node
 
 ![img](/img/pages/u2976.png)
 
-## Fill in the project node
+## Fill in the Project Node
+
+Fill in the relevant information of the project node
 
 ![img](/img/pages/u2978.png)
 
-## Deployment nodes are shown in the figure
+## Deployment Nodes are Shown in the Figure
+
+The node deployment process is shown in the figure :
 
 ![img](/img/pages/u2981.png)
 
-## Deployment completed
+## Deployment Completed
+
+Deployment complete
 
 ![img](/img/pages/u2982.png)
 
 ## View Deployment Parameters
+
+View deployment parameters
 
 ![img](/img/pages/u2984.png)
 
@@ -48,10 +62,14 @@ As shown in the picture, go to the one-click deployment interface and select Ham
 
 ![img](/img/pages/u2988.png)
 
-## View the list of subgraphs
+## View the List Of Subgraphs
+
+View the list of subgraphs
 
 ![img](/img/pages/u2989.png)
 
 ## View Deployment Details
+
+View deployment details
 
 ![img](/img/pages/u2991.png)

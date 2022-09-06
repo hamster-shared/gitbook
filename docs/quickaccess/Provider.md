@@ -2,23 +2,23 @@
 sidebar_position: 2
 ---
 
-# Provider
+# Providers
 
-Before installing any client, make sure your computer has enough resources to run it. The minimum and recommended requirements are as follows:
+Before installing any client, make sure your computer has enough resources to run it. The minimum and recommended requirements are as follows :
 
-### Docker deployment
+### Docker Deployment
 
 We recommend using Docker for deployment, which is easier and faster than source deployment.
 
 Please make sure to install Docker and docker-compose before deploying.
 
-### Operating the node
+### Operating the Node
 
 You should regularly monitor your node to make sure it's running properly. You may need to do occasional maintenance.
 
-### Keeping node online
+### Keeping Node Online
 
-Your node doesn't have to be online nonstop, but you should keep it online as much as possible to keep it in sync with the network. You can shut it down to restart it, but keep in mind that:
+Your node doesn't have to be online nonstop, but you should keep it online as much as possible to keep it in sync with the network. You can shut it down to restart it, but keep in mind that :
 
 - Shutting down can take up to a few minutes if the recent state is still being written on disk.
 - Forced shut downs can damage the database.
@@ -26,7 +26,7 @@ Your node doesn't have to be online nonstop, but you should keep it online as mu
 
 This doesn't apply on consensus layer validator nodes. Taking your node offline will affect all services dependent on it. If you are running a node for _staking_ purposes you should try to minimize downtime as much as possible.
 
-### Recommended specifications
+### Recommended Specifications
 
 |     | Minimum Specs | Recommended Specs |
 | :-: | :-----------: | :---------------: |
@@ -35,24 +35,24 @@ This doesn't apply on consensus layer validator nodes. Taking your node offline 
 
 ---
 
-## Download Hamster-Provider
+## Log in to the official website of hamster and download Hamster-Provider
 
-Before you can download the Hamster-Provider client, you need to go to the official Hamster website (https://hamsternet.io/). Click Download on the Banner above the Hamster website to enter the download screen.
+Before you download the hamster provider client, you need to enter the offial website of hamster ( https://hamsternet.io/ ). Click download on the banner of the official website of hamster to enter the download interface.
 
-## Install Hamster-Provider
+## After downloading, install the Hamster-Provider
 
-As shown in the figure, go to the Provider screen and select the link address.
+As shown in the figure, enter the provider interface and select the link address.
 
 ![img](/img/pages/u3048.png)
 
 ## Adding Web Joints
 
-Click Add, add a gateway joint, click Update Basic Information
+Click Add to add gateway, and click Update basic information
 
 ![img](/img/pages/u3049.png)
 
 ## Open Enjoy Service
 
-Click to open the service
+Click to open Shared services
 
 ![img](/img/pages/u3050.png)
