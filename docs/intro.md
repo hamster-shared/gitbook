@@ -41,5 +41,5 @@ Hamster hopes that the world's idle computing resources can be utilized to avoid
 - Web：<https://hamsternet.io/>
 - Medium：<https://medium.com/@Hamsternetio>
 - Twitter：<https://twitter.com/Hamsternetio>
-- elegram：<https://t.me/hamsternetio>
+- Telegram：<https://t.me/hamsternetio>
 - discord：<https://discord.gg/MrJWxRwXpb>
