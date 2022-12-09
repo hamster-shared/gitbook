@@ -24,20 +24,6 @@ const sidebars = {
       collapsed: true,
       items: ['intro'],
     },
-    {
-      type: 'category',
-      label: 'Quick Access',
-      collapsible: true,
-      collapsed: true,
-      items: ['quickaccess/User', 'quickaccess/Provider'],
-    },
-    {
-      type: 'category',
-      label: 'Terminology',
-      collapsible: true,
-      collapsed: true,
-      items: ['explanation'],
-    },
   ],
 }
 
