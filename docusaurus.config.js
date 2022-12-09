@@ -33,7 +33,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           sidebarCollapsible: false,
-          editUrl: 'https://github.com/hamster-shared/gitbook',
+          editUrl: 'https://github.com/hamster-shared/gitbook/blob/main',
           remarkPlugins: [codeInjector],
         },
         blog: false,
@@ -59,7 +59,7 @@ const config = {
       navbar: {
         logo: {
           alt: 'Hamster Logo',
-          src: baseUrl+'img/logo.png',
+          src: baseUrl + 'img/logo.png',
         },
         items: [
           {
