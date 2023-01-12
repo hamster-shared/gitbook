@@ -115,7 +115,7 @@ const config = {
                         <a class="social-link" href="https://discord.gg/MrJWxRwXpb" target="_blank" rel="noopener noreferrer" title="Discord">
                           <img class="icon" src="${baseUrl}img/socials/discord.svg" alt="Discord Icon" />
                         </a>
-                        <a class="social-link" href="https://medium.com/@Hamsternetio" target="_blank" rel="noopener noreferrer" title="Medium">
+                        <a class="social-link" href="https://hamsternet.medium.com" target="_blank" rel="noopener noreferrer" title="Medium">
                           <img class="icon" src="${baseUrl}img/socials/medium.svg" alt="Medium Icon" />
                         </a>
                     </nav>
