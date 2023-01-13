@@ -3,6 +3,6 @@
   "position": 8,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Aline is the core execution engine of hamster. It has a separate command line entry and can execute the hamster pipeline file in the local environment."
   }
 }
