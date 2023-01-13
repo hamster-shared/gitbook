@@ -9,3 +9,5 @@ hide_table_of_contents: true
 # Usage Documentation
 
 - [Basic Introduction](intro.md)
+
+- [Getting Started](GettingStarted/introduction.md)
