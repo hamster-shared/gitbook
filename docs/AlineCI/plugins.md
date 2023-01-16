@@ -81,3 +81,68 @@ if false ,will not compress and directory store.
             target/*/*/*/*/*.lst
             src/*/java
 ```
+
+
+### remote action
+
+In order to enhance the extensibility of pipeline, we allow users to define their own action plug-ins to enhance the function of pipeline.
+You can get an example from [here](https://github.com/mohaijiang/hello-world-action.git). It is very similar to the Github Action.
+
+remote action needs an `action.yml`, that defines how to do and what to do. It is a yaml format file. Let's show the syntax .
+
+
+```yaml title='hello-world-action/action.yml'
+name: 'simple hello world'
+description: 'Executing shell commands'
+author: 'mohaijiang'
+inputs:
+  name:
+    description: 'world'
+    default: 'world'
+    required: false
+runs:
+  using: 'composite'
+  steps:
+    - run: hello.sh
+      shell: bash
+    - run: echo WORLD
+      shell: bash
+```
+
+```shell title='hello-world-action/hello.sh'
+echo "hello"
+```
+
+Now we can use this action, Here is pipeline file example.
+
+```yaml title='remote-action-pipeline.yml'
+version: 1.0
+name: remote-action
+stages:
+  remote-action:
+    steps:
+      - name: remote hello world action
+        uses: mohaijiang/hello-world-action           # github repository   <namespace>/<repositoryName>
+        with:                                         # your action args
+          name: aline                                 # this the argument defined in action.yml
+
+```
+
+Now you can execute this pipeline file and get result like this.
+
+```shell
+aline --file remote-action-pipeline.yml
+
+2023-01-16 10:59:41 [INFO] [executor.go:138] stage: {
+2023-01-16 10:59:41 [INFO] [executor.go:139]    // remote-action
+....
+....
+
+hello
+
+aline
+
+...
+...
+
+```
