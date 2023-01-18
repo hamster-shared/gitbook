@@ -40,6 +40,10 @@ Click the **Detail** button to go to the **build detail** page.
 
 Then，you can find the contracts of this build workflow.
 
+![createProject](./img/buildDetailContractList.png)
 
+:::tip
+About **Contract Version**, When the contract building is completed, the hamster will automatically add the contract version number+1.
+:::
 
 
