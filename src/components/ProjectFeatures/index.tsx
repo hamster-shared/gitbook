@@ -105,13 +105,10 @@ const FeatureList: FeatureItem[] = [
 function Feature({ title, to, description }: FeatureItem) {
   return (
     <article className="card margin-bottom--lg padding--md cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module">
-      <Link
-        to={to}>
         <div className="text--left padding-horiz--md">
           <h3>{title}</h3>
           <p>{description}</p>
         </div>
-      </Link>
     </article>
 
   );
