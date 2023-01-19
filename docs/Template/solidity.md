@@ -177,7 +177,7 @@ Furthermore, applications of this model (such as renting) often demand that user
 The keywords "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY" and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
 
 ##### Contract Interface
-Solidity Interface with NatSpec & OpenZeppelin v4 Interfaces (also available at [`IERC4907.sol`](../assets/eip-4907/contracts/IERC4907.sol)):
+Solidity Interface with NatSpec & OpenZeppelin v4 Interfaces (also available at [`IERC4907.sol`](https://raw.githubusercontent.com/ethereum/EIPs/master/assets/eip-4907/contracts/IERC4907.sol)):
 
 ```solidity
 interface IERC4907 {
@@ -241,7 +241,7 @@ As mentioned in the specifications section, this standard can be fully EIP-721 c
 In addition, new functions introduced in this standard have many similarities with the existing functions in EIP-721. This allows developers to easily adopt the standard quickly.
 
 #### Reference Implementation
-Implementation: [`ERC4907.sol`](../assets/eip-4907/contracts/ERC4907.sol)
+Implementation: [`ERC4907.sol`](https://raw.githubusercontent.com/ethereum/EIPs/master/assets/eip-4907/contracts/ERC4907.sol)
 ```solidity
 // SPDX-License-Identifier: CC0-1.0
 pragma solidity ^0.8.0;
