@@ -33,9 +33,20 @@ All artifacts generated on Hamsters of the project will be displayed in the arti
 
 ### View contract Artifacts
 
+In the **Artifacts** area, click the **Contracts** tab to view all the contracts built by Hamster, and the deployment of each contract in each chain.
+
 ![createProject](./img/projectDetailContractArtifacts.png)
+
+In this area，you can do：
+- Filter out the contract by the drop-down selection box.
+- Click the **Deploy** button to go to the **Deploy Contract** page.
+- When the contract has been deployed, click the **Detail** button to explore this contract.
 
 ### View contract Reports
 
+In the **Artifacts** area, click the **Reports** tab to view all the contract check report.
+
 ![createProject](./img/projectDetailContractReports.png)
 
+In this area，you can do：
+- Click the **View Report** button to view the detail infomation of this report.

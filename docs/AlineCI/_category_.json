@@ -1,6 +1,6 @@
 {
   "label": "ALine CI",
-  "position": 8,
+  "position": 9,
   "link": {
     "type": "generated-index",
     "description": "Aline is the core execution engine of hamster. It has a separate command line entry and can execute the hamster pipeline file in the local environment."
