@@ -1,0 +1,8 @@
+{
+  "label": "Node Service",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Hamster provides RPC service that enables users to empower their Web3 projects with the blockchain interaction capabilities via the top-performing globally-distributed decentralized infrastructure of nodes."
+  }
+}
