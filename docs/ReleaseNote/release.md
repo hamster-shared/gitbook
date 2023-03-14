@@ -4,6 +4,13 @@ sidebar_position: 1
 
 # Release Note 
 
+## 1.3.0
+
+* add frontend template container runtime
+* add master and slave node definition, improve pipeline execution time
+* add EVM contract ChatGPT advise
+* fix some issue
+
 ## 1.2.0
 
 * provider Starknet Contract Template
