@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Quickly start frontend project
+
 ## Create a frontend project
 Once you have successfully signed up for Hamster, you're ready to start creating a Project.
 
