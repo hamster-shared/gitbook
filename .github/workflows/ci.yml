@@ -33,6 +33,6 @@ jobs:
           key: ${{ secrets.HAMSTER_SERVER_KEY }}
           port: ${{ secrets.HAMSTER_SERVER_PORT }}
           script: |
-            cd /root/hamster-deploy
-            docker compose pull
+            cd /home/ubuntu/hamster-protal
+            docker compose pull gitbook
             docker compose up -d
