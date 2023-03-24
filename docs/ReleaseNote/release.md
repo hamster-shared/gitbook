@@ -4,6 +4,13 @@ sidebar_position: 1
 
 # Release Note 
 
+## 0.5.0
+
+* [new] add aptos contract template
+* [new] add aptos move contract compile
+* [new] add aptos contract deploy and function call
+* [bugfix] fix some other issues
+
 ## 0.4.0
 
 * add frontend template container runtime
