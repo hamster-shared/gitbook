@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Release Note 
 
+### 0.5.1
+
+* [new] add aptos contract check
+
 ## 0.5.0
 
 * [new] add aptos contract template
