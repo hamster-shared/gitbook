@@ -12,7 +12,7 @@ const baseUrl = '/docs/'
 const config = {
   title: 'Hamster Docs',
   tagline: 'User Documentation',
-  url: 'https://hamsternet.io',
+  url: 'https://hamsternet.io/',
   baseUrl: baseUrl,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',

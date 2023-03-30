@@ -1,4 +1,4 @@
-FROM node:16 as builder
+FROM node:16
 MAINTAINER "mohaijiang<mohaijiang110@163.com>"
 
 ADD . /doc
@@ -6,9 +6,6 @@ ADD . /doc
 WORKDIR /doc
 RUN yarn install
 RUN yarn build
-
-FROM nginx:1.21
-COPY default.conf /etc/nginx/conf.d/default.conf
-COPY --from=builder /doc/build /usr/share/nginx/docs
-
 EXPOSE 80
+
+CMD ["npm","run","serve", "--", "--build","--port", "80", "--host", "0.0.0.0"]
