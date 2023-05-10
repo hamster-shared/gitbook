@@ -4,6 +4,13 @@ sidebar_position: 1
 
 # Release Note
 
+## 0.7.0 
+
+May 10, 2023
+
+* [new] add [metatrust](https://app.metatrust.io/) contract check support
+* [fix] fix a few issues
+
 ## 0.6.1
 
 April 20, 2023
