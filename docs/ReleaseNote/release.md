@@ -4,6 +4,14 @@ sidebar_position: 1
 
 # Release Note
 
+## 0.8.0
+May 23, 2023
+
+* [new] support Github repository import 
+* [new] add Filecoin FVM network
+* [new] add Filecoin FVM contract template
+* [fix] fix startware contract build and deploy
+
 ## 0.7.0 
 
 May 10, 2023
