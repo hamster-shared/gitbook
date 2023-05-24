@@ -1,8 +1,5 @@
----
-sidebar_position: 2
----
 
-# Build Contract
+# Build EVM Contract
 
 When codes need to be changed or updated, you can execute contract compilation by one click.
 The Execution process is automatic without manual intervention.

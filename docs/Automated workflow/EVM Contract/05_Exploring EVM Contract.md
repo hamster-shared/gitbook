@@ -1,8 +1,5 @@
----
-sidebar_position: 1
----
 
-# Exploring Smart Contracts
+# Exploring EVM Contract
 
 You can extract some information about Hamster deploy Smart Contract instances in the Explorer. 
 

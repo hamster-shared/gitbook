@@ -1,8 +1,0 @@
-{
-  "label": "Projects",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "To use developer toolkit on Hamster，you need to creat a project.A project groups workflows、artifacts、and deployments.Each project can receive deployments from GitHub."
-  }
-}

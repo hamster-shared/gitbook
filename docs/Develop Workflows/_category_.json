@@ -1,8 +1,0 @@
-{
-  "label": "Develop Workflows",
-  "position": 4,
-  "link": {
-    "type": "generated-index",
-    "description": "Hamster can improve the development efficiency dramatically by automated workflow. When codes need to be changed or updated, the development team can execute code and contract compilation, testing, security check and deployment by one click."
-  }
-}

@@ -1,8 +1,5 @@
----
-sidebar_position: 3
----
 
-# Manage Projects
+# Manage EVM Project
 
 To view all the infomation of project，choose a project from the **project list** page, and click the name of project to go to the **Project Detail** page.
 
@@ -31,7 +28,7 @@ All artifacts generated on Hamsters of the project will be displayed in the arti
 - The main artifacts of a contract project are contracts and contract check reports.
 - The main artifacts of a Front-End project are Front-End package and front-end code check reports. 
 
-### View contract Artifacts
+### View Contract Artifacts
 
 In the **Artifacts** area, click the **Contracts** tab to view all the contracts built by Hamster, and the deployment of each contract in each chain.
 
@@ -42,7 +39,7 @@ In this area，you can do：
 - Click the **Deploy** button to go to the **Deploy Contract** page.
 - When the contract has been deployed, click the **Detail** button to explore this contract.
 
-### View contract Reports
+### View Contract Reports
 
 In the **Artifacts** area, click the **Reports** tab to view all the contract check report.
 
@@ -50,3 +47,16 @@ In the **Artifacts** area, click the **Reports** tab to view all the contract ch
 
 In this area，you can do：
 - Click the **View Report** button to view the detail infomation of this report.
+
+## Setup Project
+
+To edit project settings, choose a project from the **project list**, then, click the **Setting** button.
+![createProject](./img/projectDetailSetting.png)
+
+### General Settings
+
+#### Project Name
+
+![createProject](./img/editProjectName.png)
+
+Project names can only consist of up to 100 alphanumeric lowercase characters. Hyphens can be used between the name but never at the start or end.

@@ -1,13 +1,10 @@
----
-sidebar_position: 1
----
 
-# Check Contract
+# Check EVM Contract
 
 Hamster will conduct all-round inspections on smart contracts, including security analysis, contract style specification inspection. 
 The Execution process is automatic without manual intervention.
 
-## Execute checking
+## Execute Checking
 
 click the **Check** button in the **contract project** card, to check the contract.
 
@@ -40,7 +37,7 @@ After the contract check is successfully executed, the security analysis results
 All contract code files with problems in the project will be displayed in this area.
 Click the problems file name to display the problems, the content includes: the row and column where the problem occurred, the problem description, and the check tool.
 
-## Contract Style Guide validations
+## Contract Style Guide Validations
 
 After the contract check is successfully executed, the Contract Style Guide validations results will be displayed. Like this:
 

@@ -1,10 +1,6 @@
----
-sidebar_position: 1
----
+# Create Project for EVM
 
-# Create a project
-
-## Create a contract project with template
+## Create EVM Project with Template
 
 You can create a new project from the Hamster **project list** page by clicking on the **Create Project** button.
 

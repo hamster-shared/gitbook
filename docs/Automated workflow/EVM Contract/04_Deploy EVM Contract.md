@@ -1,8 +1,5 @@
----
-sidebar_position: 5
----
 
-# Deploy Contracts
+# Deploy EVM Contract
  
 After the contract Building is completed by Hamster, you can also deploy this contract deployment by Hamster.
 
