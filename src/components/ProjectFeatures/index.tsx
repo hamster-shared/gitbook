@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Creating & Developing Contract Project for EVM',
-    to: '/docs/Automated workflow/EVM Contract/Create a project',
+    to: '/docs/Automated workflow/EVM Contract/Create Project for EVM',
     description: (
       <>
         Want to quickly build more cool code and demos in the Ethereum ecosystem? Now learn how to use Hamster to quickly create and develop projects based on the EVM and Solidity language here. 
