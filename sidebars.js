@@ -44,7 +44,18 @@ const sidebars = {
       label: 'Middleware',
       collapsible: true,
       collapsed: true,
-      items: ['Middleware/Overview'],
+      items: [
+        'Middleware/Overview',
+        'Middleware/MiddlewareServer',
+        'Middleware/Getting Started/GettingStarted',
+      {
+          type: 'category',
+          label: 'User Guide',
+          collapsible: true,
+          collapsed: true,
+          items: ['Middleware/User Guide/RPC/RPC','Middleware/User Guide/Hamslink/Hamslink'],
+       },
+      ],
     },
     {
       type: 'category',
