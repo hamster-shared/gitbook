@@ -14,6 +14,7 @@ const config = {
   tagline: 'User Documentation',
   url: 'https://hamsternet.io/',
   baseUrl: baseUrl,
+  favicon: '/img/favicon.png',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   organizationName: 'hamster-shared', // Usually your GitHub org/user name.
