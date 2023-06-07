@@ -60,7 +60,8 @@ const config = {
       navbar: {
         logo: {
           alt: 'Hamster Logo',
-          src: baseUrl + 'img/logo.png',
+          srcDark: 'img/logo-dark.svg',
+          src: 'img/logo-white.svg'
         },
         items: [
           {
