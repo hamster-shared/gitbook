@@ -61,7 +61,8 @@ const config = {
         logo: {
           alt: 'Hamster Logo',
           srcDark: 'img/logo-dark.svg',
-          src: 'img/logo-white.svg'
+          src: 'img/logo-white.svg',
+          href: 'https://hamsternet.io'
         },
         items: [
           {
@@ -79,8 +80,8 @@ const config = {
             items: [
               {
                 html: `
-                  <a class="social-link" href="#" target="_blank" rel="noopener noreferrer" title="Git">
-                     <img class="logo" src="${baseUrl}img/logo.png" alt="Hamster Logo" />
+                  <a class="social-link" href="https://hamsternet.io" target="_blank" rel="noopener noreferrer" title="Git">
+                     <img class="logo" src="${baseUrl}img/logo-dark.svg" alt="Hamster Logo" />
                   </a>
                 `,
               },
