@@ -158,8 +158,23 @@ b.navbar__title {
   word-wrap: break-word;
   background-color: rgb(255 255 255 / 10%);
   background-clip: border-box;
-  border: 1px solid rgb(29, 233, 182);
+  border: 1px solid #5C64FF;
   border-radius: 0.25rem;
+}
+.card a{
+  color: #5C64FF !important;
+}
+.card h3{
+  color: #5C64FF !important;
+}
+.card h3:hover{
+  text-decoration: #5C64FF !important;
+}
+.card p{
+  color: #5C64FF !important
+}
+.card p:hover{
+  text-decoration: #5C64FF !important;
 }
 .border-dark {
   border-color: #af1b74 !important;
