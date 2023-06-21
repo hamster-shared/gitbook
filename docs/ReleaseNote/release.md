@@ -3,6 +3,14 @@ sidebar_position: 1
 ---
 
 # Release Note
+
+## 0.10.0
+
+June 21, 2023
+
+* [new] Add RPC Service system
+* [new] Fix known bugs
+
 ## 0.9.0
 June 6, 2023
 * [new] visual optimization
