@@ -37,6 +37,13 @@ const sidebars = {
           collapsed: true,
           items: ['Automated workflow/EVM Contract/Create Project for EVM','Automated workflow/EVM Contract/Check EVM Contract', 'Automated workflow/EVM Contract/Build EVM Contract', 'Automated workflow/EVM Contract/Deploy EVM Contract','Automated workflow/EVM Contract/Exploring EVM Contract','Automated workflow/EVM Contract/Manage EVM Project'],
         },
+        {
+          type: 'category',
+          label: 'Starknet Contracts',
+          collapsible: true,
+          collapsed: true,
+          items: ['Automated workflow/Starknet Contract/Overview','Automated workflow/Starknet Contract/Create Contract Project','Automated workflow/Starknet Contract/Check Contract', 'Automated workflow/Starknet Contract/Build Contract', 'Automated workflow/Starknet Contract/Deploy Contract','Automated workflow/Starknet Contract/Exploring Contract','Automated workflow/Starknet Contract/Manage Project'],
+        },
       ],
     },
     {
