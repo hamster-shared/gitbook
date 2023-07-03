@@ -42,7 +42,7 @@ const sidebars = {
           label: 'Starknet Contracts',
           collapsible: true,
           collapsed: true,
-          items: ['Automated workflow/Starknet Contract/Overview','Automated workflow/Starknet Contract/Create Contract Project','Automated workflow/Starknet Contract/Check Contract', 'Automated workflow/Starknet Contract/Build Contract', 'Automated workflow/Starknet Contract/Deploy Contract','Automated workflow/Starknet Contract/Exploring Contract','Automated workflow/Starknet Contract/Manage Project'],
+          items: ['Automated workflow/Starknet Contract/Overview','Automated workflow/Starknet Contract/Create Contract Project','Automated workflow/Starknet Contract/Check Contract', 'Automated workflow/Starknet Contract/Build Contract', 'Automated workflow/Starknet Contract/Deploy Contract','Automated workflow/Starknet Contract/Explore Contract','Automated workflow/Starknet Contract/Manage Project'],
         },
       ],
     },

@@ -1,5 +1,5 @@
 
-# Explor Contract
+# Explore Contract
 
 ## Smart Contract Interaction
 
