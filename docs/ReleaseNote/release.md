@@ -4,6 +4,13 @@ sidebar_position: 1
 
 # Release Note
 
+## 0.11.0
+
+July 14, 2023
+
+* [new]  optimize UI
+* [fix] fix some known bugs
+
 ## 0.10.0
 
 June 21, 2023
