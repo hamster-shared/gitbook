@@ -9,6 +9,7 @@ sidebar_position: 1
 July 14, 2023
 
 * [new]  optimize UI
+* [new] add substrate template 
 * [fix] fix some known bugs
 
 ## 0.10.0

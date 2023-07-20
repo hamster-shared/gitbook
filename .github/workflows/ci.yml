@@ -18,20 +18,20 @@ jobs:
       - run : |
           docker build -t hamstershare/hamster-gitbook:latest .
           docker push hamstershare/hamster-gitbook:latest
-  deploy:
-    needs:
-      - docker-build
-    name: deploy
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy portal
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.HAMSTER_SERVER_HOST }}
-          username: ${{ secrets.HAMSTER_SERVER_USERNAME }}
-          key: ${{ secrets.HAMSTER_SERVER_KEY }}
-          port: ${{ secrets.HAMSTER_SERVER_PORT }}
-          script: |
-            cd /home/ubuntu/hamster-protal
-            docker compose pull gitbook
-            docker compose up -d
+#  deploy:
+#    needs:
+#      - docker-build
+#    name: deploy
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Deploy portal
+#        uses: appleboy/ssh-action@master
+#        with:
+#          host: ${{ secrets.HAMSTER_SERVER_HOST }}
+#          username: ${{ secrets.HAMSTER_SERVER_USERNAME }}
+#          key: ${{ secrets.HAMSTER_SERVER_KEY }}
+#          port: ${{ secrets.HAMSTER_SERVER_PORT }}
+#          script: |
+#            cd /home/ubuntu/hamster-protal
+#            docker compose pull gitbook
+#            docker compose up -d
