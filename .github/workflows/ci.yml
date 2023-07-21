@@ -49,6 +49,6 @@ jobs:
           location: ${{ env.GKE_ZONE }}
 
       # The KUBECONFIG env var is automatically exported and picked up by kubectl.
-      - id: re deploy
+      - name: 're deploy'
         run: |
           kubectl -n hamster rollout restart deployment gitbook
