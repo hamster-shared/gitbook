@@ -10,8 +10,6 @@ env:
   PROJECT_ID: ${{ secrets.GKE_PROJECT }}
   GKE_CLUSTER: cluster-1    # Add your cluster name here.
   GKE_ZONE: us-east1-b   # Add your cluster zone here.
-  DEPLOYMENT_NAME: gke-test # Add your deployment name here.
-  IMAGE: static-site
 
 jobs:
 #  docker-build:
@@ -32,7 +30,13 @@ jobs:
 #      - docker-build
     name: deploy
     runs-on: ubuntu-latest
+    environment: production
+
     steps:
+      - name: show
+        run: |
+          echo ${{ secrets.GKE_SA_KEY }}
+          echo ${{ env.PROJECT_ID }}
       # Setup gcloud CLI
       - uses: google-github-actions/setup-gcloud@1bee7de035d65ec5da40a31f8589e240eba8fde5
         with:
