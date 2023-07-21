@@ -6,9 +6,9 @@ sidebar_position: 1
 
 ## 0.11.0
 
-July 14, 2023
+July 21, 2023
 
-* [new]  optimize UI
+* [new] optimize UI
 * [new] add substrate template 
 * [fix] fix some known bugs
 
