@@ -53,4 +53,4 @@ jobs:
       # The KUBECONFIG env var is automatically exported and picked up by kubectl.
       - name: 're deploy'
         run: |
-          kubectl -n hamster rollout restart deployment hamster-portal
+          kubectl -n hamster rollout restart deployment gitbook
