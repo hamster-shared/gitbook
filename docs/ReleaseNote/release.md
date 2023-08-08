@@ -4,6 +4,14 @@ sidebar_position: 1
 
 # Release Note
 
+## 0.12.0
+
+August 8, 2023
+
+* [new] frontend template [internet computer](https://internetcomputer.org/) deploy support
+* [new] Polkadot substrate node-template support
+* [new] add some Aptos contract template
+
 ## 0.11.0
 
 July 21, 2023
