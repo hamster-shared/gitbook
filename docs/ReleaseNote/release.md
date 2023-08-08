@@ -11,6 +11,7 @@ August 8, 2023
 * [new] frontend template [internet computer](https://internetcomputer.org/) deploy support
 * [new] Polkadot substrate node-template support
 * [new] add some Aptos contract template
+* [Optimization] Website Style Adjustment
 
 ## 0.11.0
 
