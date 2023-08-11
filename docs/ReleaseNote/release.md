@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Release Note
 
+## 0.13.1
+
+* [fix] fix evm contract call method page click error 
+
 ## 0.12.0
 
 August 8, 2023
