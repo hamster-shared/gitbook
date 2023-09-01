@@ -4,6 +4,13 @@ sidebar_position: 1
 
 # Release Note
 
+
+## 0.14.0
+
+Sep 1, 2023
+
+* [new] add ICP motoko and rust template and pipeline
+
 ## 0.13.1
 
 * [fix] fix evm contract call method page click error 
