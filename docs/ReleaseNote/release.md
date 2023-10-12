@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Release Note
 
+## 0.15.0 
+
+Oct 12, 2023
+
+*[new] add Zeta network
+*[new] add Greenfield-data-marketplace EVM contract template
 
 ## 0.14.0
 
