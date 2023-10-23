@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Project Settings
 
 To edit project settings, choose a project from the **project list**, then, click the **Setting** button.
