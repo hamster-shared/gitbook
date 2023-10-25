@@ -39,7 +39,7 @@ As above, you can choose some popular templates in Internet Computer to create y
 ## Create Front-End Project Import Git Repository
 If you don't want to use the popular templates we provide or want to create your own unique templates on hamster, hamster also provides the function of one-click creation of projects through remote git repositories.  
 ### Create Front-End Project Import Github
-![create front end](./img/front_end07.png)
+![create front end](./img/create_front_end07.png)
 1.Also return to the *Create Project* page  
 2.After selecting the *FrontEnd* option, select the **Use an existing repository option** in the Code Repository option. At this time, you can view all public repositories of the currently linked github account.  
 3.Select the code repository in github where the project needs to be created and click the *Import* button  
