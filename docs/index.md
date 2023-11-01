@@ -80,7 +80,7 @@ To quickly learn how to use Hamster, watch these instructional videos as needed.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eNNZvikmfgo?si=yRlSxt4-msnNOGfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Hamster Manual - Sui
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JFhd558xfgU?si=WOzle1dp0EDHclOt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zx3opTegQzQ?si=XItG30LMy18YyQ3W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Hamster Manual - StarkNet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fAO8nsyjP0c?si=ECrSma31-8zyKLw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
