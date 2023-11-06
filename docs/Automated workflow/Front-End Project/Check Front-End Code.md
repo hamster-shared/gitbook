@@ -13,7 +13,7 @@ Hamster show the Execution Process by visual pipeline, You can see all built-in 
 ![Check Front End](./img/check_front_end04.png)  
 Click each work node，you can see the Execution log of this work node. Like this:  
 ![Check Front End](./img/check_front_end05.png)
-## View Static analysis report  
+## View Static Analysis report  
 After the static code inspection is completed for the front-end code of the project, the corresponding result report will be generated.  
 ![Check Front End](./img/check_front_end06.png)
 All contract code files with problems in the project will be displayed in this area. You can optimize and improve the smart contract based on the Static analysis report.

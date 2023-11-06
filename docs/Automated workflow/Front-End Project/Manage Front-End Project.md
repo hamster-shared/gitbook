@@ -30,10 +30,10 @@ In this area，you can do：
 ## Setup Project  
 To edit project settings, choose a project from the project list, then, click the Setting button.
 ![manage front end](./img/manage_front_end04.png)
-### Setting with IPFS
+### General Setting
 ![manage front end](./img/manage_front_end05.png)
-- The project selected for IPFS deployment only has **general** settings, which are used to change the project name.  
-### Setting with Container  
-![manage front end](./img/manage_front_end05.png)  
-- In addition to the **general** settings, the project selected for **Container** deployment also has container settings, which are used to configure the port number and other information of the container.  
+You can modify the project name through General Settings. 
+### Container Setting  
+![manage front end](./img/manage_front_end06.png)  
+For front-end projects deployed in containers, you can configure the container specifications and ports through "Container Settings".   
 
