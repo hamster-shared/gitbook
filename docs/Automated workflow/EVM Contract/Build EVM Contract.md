@@ -1,8 +1,26 @@
 
 # Build EVM Contract
 
-When codes need to be changed or updated, you can execute contract compilation by one click.
-The Execution process is automatic without manual intervention.
+Turn the hassle of compiling smart contracts into a simple submit-the-link task. One click to auto compile, efficient and convenient, with auto version control and code tracking.
+
+With this Feature you will get:
+
+🌟 **Simple and convenient** - No need to submit code, just submit the repository link to complete the compilation
+
+🌟 **Directly compile version controlled code** - Support automatic pulling and compiling from the code repository
+
+🌟 **No local environment required** - Server side automated compilation, no need for users to configure local compilation environment
+
+🌟 **Automatic version management** - Automatically manage contract versions during the build process for future code tracking 
+
+:::tip
+Now open **[hamsternet.io](https://develop.alpha.hamsternet.io/projects)** and follow the tutorial to operate.
+:::
+
+## Needs
+You have created a solidity contract project on Hamster. 
+
+To view the project creation guidelines, please click [here](/Automated%20workflow/EVM%20Contract/Create%20Project%20for%20EVM).
 
 ## Execute Building
 

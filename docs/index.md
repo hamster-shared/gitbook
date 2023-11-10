@@ -72,7 +72,26 @@ More details on our build environments are available in our CI Environment docum
 
 Now that you’ve read the basics, head over to our Tutorial for details on setting up your first build!
 
+## Video Tutorial
 
+To quickly learn how to use Hamster, watch these instructional videos as needed. They will help you get started with Hamster
+
+### Hamster Manual - EVM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eNNZvikmfgo?si=yRlSxt4-msnNOGfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Hamster Manual - Sui
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zx3opTegQzQ?si=XItG30LMy18YyQ3W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Hamster Manual - StarkNet
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAO8nsyjP0c?si=ECrSma31-8zyKLw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+### Hamster Manual - IC
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dSLPTZWyiBY?si=S2UR7FwG0QQSS9ky" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+### Hamster Manual - Polkadot
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gwgD7B3HtY?si=09Nl5FXvTU8KY37w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Sign up
 
