@@ -4,6 +4,16 @@ sidebar_position: 1
 
 # Release Note
 
+## 0.16.0
+
+Nov 10, 2023
+
+* [new] add network
+* [new] add linea network rpc template
+* [new] multi-contract deploy engine
+* [new] add Greenfield Mainnet Connect Option
+* [new] add BNB Smart Chain Testnet Connect Option
+
 ## 0.15.0 
 
 Oct 12, 2023
