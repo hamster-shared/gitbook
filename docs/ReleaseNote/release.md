@@ -6,8 +6,8 @@ sidebar_position: 1
 
 ## v0.17.1
 
-*[new] add Solana Anchor pipeline
-*[new] add Solana NFT template
+* [new] add Solana Anchor pipeline
+* [new] add Solana NFT template
 
 ## v0.17.0
 
