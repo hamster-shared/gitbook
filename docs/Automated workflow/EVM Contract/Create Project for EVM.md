@@ -35,6 +35,7 @@ In the upper right corner of the  ** template detail ** page, you can choose the
 
 After created successfully, return to the project list to view the newly created project.
 
+## Create EVM Project with Template Wizard
 
-
+Coming soon
 
