@@ -20,7 +20,7 @@ Now open **[hamsternet.io](https://develop.alpha.hamsternet.io/projects)** and f
 ## Needs
 You have created a solidity contract project on Hamster. 
 
-To view the project creation guidelines, please click [here](/Automated%20workflow/EVM%20Contract/Create%20Project%20for%20EVM).
+To view the project creation guidelines, please click [here](Create%20Project%20for%20EVM.md).
 
 ## Execute Building
 
