@@ -93,6 +93,12 @@ To quickly learn how to use Hamster, watch these instructional videos as needed.
 ### Hamster Manual - Polkadot
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3gwgD7B3HtY?si=09Nl5FXvTU8KY37w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Hamster Manual - Linea
+<iframe width="560" height="315" src="https://www.youtube.com/embed/joNW2Ba9cI8?si=fI6DaOD-aOwavVYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Hamster Manual - Solana
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tIbcIK9PiSw?si=ahZLbaT26HwLpQbZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Sign up
 
 To sign up for Hamster, go to https://develop.alpha.hamsternet.io/login. You can choose to authenticate either with a Git provider. Connecting to a Git provider is an important part of the Hamster journey. This is because every time you create a project by Hamster, we will generate a project framework for you and synchronize the code repository under your GitHub account 

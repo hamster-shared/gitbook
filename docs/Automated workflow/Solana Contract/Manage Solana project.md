@@ -1,4 +1,4 @@
-# Manage Project  
+# Manage Solana Project  
 To view the details of a project, choose a project from the project list page and click the project name to go to the Project Detail page. There, you can get extensive information about the project, including its workflows and artifacts.
 
 ![Manage Solana Project](img/solana_project21.png)  
