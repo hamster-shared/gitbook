@@ -57,6 +57,17 @@ const sidebars = {
         },
         {
           type: 'category',
+          label: 'Solana Contracts',
+          collapsible: true,
+          collapsed: true,
+          items: ['Automated workflow/Solana Contract/Create Project for Solana',
+                  'Automated workflow/Solana Contract/Build Solana Contract',
+                  'Automated workflow/Solana Contract/Deploy Solana Contract',
+                  'Automated workflow/Solana Contract/Exploring Solana Contract',
+                  'Automated workflow/Solana Contract/Manage Solana project'],
+        },
+        {
+          type: 'category',
           label: 'Front-End Project',
           collapsible: true,
           collapsed: true,
