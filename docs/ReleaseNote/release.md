@@ -4,6 +4,14 @@ sidebar_position: 1
 
 # Release Note
 
+
+## v0.18.0
+
+* [new] add Sui Check tools 
+* [update] update vuejs frontend template to latest
+* [new] add react+nuxtjs frontend template
+* [new] add OP Mainnet and OP Sepolia
+
 ## v0.17.1
 
 * [new] add Solana Anchor pipeline
