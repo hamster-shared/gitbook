@@ -4,6 +4,7 @@ sidebar_position: 1
 
 # Release Note
 
+
 ## 0.18.0
 
 Dec 15, 2023
@@ -25,7 +26,7 @@ Dec 6, 2023
 Nov 27, 2023
 
 * [new] add [zan](https://zan.top)  integrated， provider zan rpc service
-* [optimization] Optimize Login 
+* [Optimization] Optimize Login 
 
 ## 0.16.0
 
