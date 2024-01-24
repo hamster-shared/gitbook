@@ -4,19 +4,25 @@ sidebar_position: 1
 
 # Release Note
 
-## v0.18.0
+## 0.18.0
+
+Dec 15, 2023
 
 * [new] add Sui Check tools 
 * [update] update vuejs frontend template to latest
 * [new] add react+nuxtjs frontend template
 * [new] add OP Mainnet and OP Sepolia
 
-## v0.17.1
+## 0.17.1
+
+Dec 6, 2023
 
 * [new] add Solana Anchor pipeline
 * [new] add Solana NFT template
 
-## v0.17.0
+## 0.17.0
+
+Nov 27, 2023
 
 * [new] add [zan](https://zan.top)  integrated， provider zan rpc service
 * [optimization] Optimize Login 
