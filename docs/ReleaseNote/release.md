@@ -4,7 +4,6 @@ sidebar_position: 1
 
 # Release Note
 
-
 ## 0.18.0
 
 Dec 15, 2023
