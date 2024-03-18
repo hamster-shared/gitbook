@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Release Note
 
+## 0.19.0
+
+Mar 18, 2024
+
+* [new] add ICP manage in Hamster Paas 
+
 ## 0.18.0
 
 Dec 15, 2023
